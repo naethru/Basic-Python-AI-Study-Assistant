@@ -1,0 +1,136 @@
+====================
+RUN 1
+====================
+Hello there, what feature would you like to use today?(Questions/Notes) Questions
+Now I will help you answer your questions
+What is your first question What is addition
+Answer: Addition is combining two or more integers together.
+
+====================
+RUN 2
+====================
+Hello there, what feature would you like to use today?(Questions/Notes) Questions
+Now I will help you answer your questions
+What is your first question What is multiplication
+Answer: Multiplication is repeated addition.
+
+====================
+RUN 3
+====================
+Hello there, what feature would you like to use today?(Questions/Notes) Questions
+Now I will help you answer your questions
+What is your first question Give me study resources
+Answer: Khan Academy and IXL are often referenced as amazing study resources
+
+====================
+RUN 4
+====================
+Hello there, what feature would you like to use today?(Questions/Notes) Questions
+Now I will help you answer your questions
+What is your first question What is subtraction
+Sorry I dont have an answer for that.
+
+====================
+RUN 5
+====================
+Hello there, what feature would you like to use today?(Questions/Notes) Notes
+You can now take notes here
+Enter a note or type 'over' to close the notes: Buy milk
+Enter a note or type 'over' to close the notes: Finish homework
+Enter a note or type 'over' to close the notes: over
+I will now show your current notes
+['Buy milk', 'Finish homework']
+Would you like to take a quiz?(Yes/No) No
+Ok, that's fine
+
+====================
+RUN 6
+====================
+Hello there, what feature would you like to use today?(Questions/Notes) Notes
+You can now take notes here
+Enter a note or type 'over' to close the notes: Study algebra
+Enter a note or type 'over' to close the notes: over
+I will now show your current notes
+['Study algebra']
+Would you like to take a quiz?(Yes/No) Yes
+You will be locked into the quiz untill you finish it, make sure to write ansswers as digits
+---------------------------------------------------------------------------------------------------
+What is 1+1? 2
+Nice job, you got it right!
+---------------------------------------------------------------------------------------------------
+What is 5^2? 25
+Nice job, you got it right!
+---------------------------------------------------------------------------------------------------
+What is 10x12? 120
+Nice job, you got it right!
+---------------------------------------------------------------------------------------------------
+What is 36+72? 108
+Nice job, you got it right!
+---------------------------------------------------------------------------------------------------
+Last question!
+What is 206+432?638
+Nice job, you got it right!
+---------------------------------------------------------------------------------------------------
+End of quiz
+You got 5/5
+---------------------------------------------------------------------------------------------------
+
+====================
+RUN 7
+====================
+Hello there, what feature would you like to use today?(Questions/Notes) Notes
+You can now take notes here
+Enter a note or type 'over' to close the notes: Math formulas
+Enter a note or type 'over' to close the notes: Science vocabulary
+Enter a note or type 'over' to close the notes: over
+I will now show your current notes
+['Math formulas', 'Science vocabulary']
+Would you like to take a quiz?(Yes/No) Yes
+You will be locked into the quiz untill you finish it, make sure to write ansswers as digits
+---------------------------------------------------------------------------------------------------
+What is 1+1? 2
+Nice job, you got it right!
+---------------------------------------------------------------------------------------------------
+What is 5^2? 20
+Sorry you got it wrong.
+---------------------------------------------------------------------------------------------------
+What is 10x12? 120
+Nice job, you got it right!
+---------------------------------------------------------------------------------------------------
+What is 36+72? 100
+Sorry you got it wrong.
+---------------------------------------------------------------------------------------------------
+Last question!
+What is 206+432?638
+Nice job, you got it right!
+---------------------------------------------------------------------------------------------------
+End of quiz
+You got 3/5
+---------------------------------------------------------------------------------------------------
+
+====================
+RUN 8
+====================
+Hello there, what feature would you like to use today?(Questions/Notes) Questions
+Now I will help you answer your questions
+What is your first question What is a square
+Answer: A square can either be multiplying a number by itself or a 2d shape.
+
+====================
+RUN 9
+====================
+Hello there, what feature would you like to use today?(Questions/Notes) Notes
+You can now take notes here
+Enter a note or type 'over' to close the notes: over
+I will now show your current notes
+[]
+Would you like to take a quiz?(Yes/No) No
+Ok, that's fine
+
+====================
+RUN 10
+====================
+Hello there, what feature would you like to use today?(Questions/Notes) Questions
+Now I will help you answer your questions
+What is your first question What is addition
+Answer: Addition is combining two or more integers together.
